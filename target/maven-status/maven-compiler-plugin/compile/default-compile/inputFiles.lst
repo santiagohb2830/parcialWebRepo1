@@ -1,0 +1,8 @@
+/Users/santiagohernandezbarbosa/Desktop/parcialWeb/backend/src/main/java/com/parcial/biblioteca/BibliotecaApplication.java
+/Users/santiagohernandezbarbosa/Desktop/parcialWeb/backend/src/main/java/com/parcial/biblioteca/config/CorsConfig.java
+/Users/santiagohernandezbarbosa/Desktop/parcialWeb/backend/src/main/java/com/parcial/biblioteca/controller/BibliotecaController.java
+/Users/santiagohernandezbarbosa/Desktop/parcialWeb/backend/src/main/java/com/parcial/biblioteca/entity/Biblioteca.java
+/Users/santiagohernandezbarbosa/Desktop/parcialWeb/backend/src/main/java/com/parcial/biblioteca/entity/Libro.java
+/Users/santiagohernandezbarbosa/Desktop/parcialWeb/backend/src/main/java/com/parcial/biblioteca/repository/BibliotecaRepository.java
+/Users/santiagohernandezbarbosa/Desktop/parcialWeb/backend/src/main/java/com/parcial/biblioteca/repository/LibroRepository.java
+/Users/santiagohernandezbarbosa/Desktop/parcialWeb/backend/src/main/java/com/parcial/biblioteca/service/BibliotecaService.java

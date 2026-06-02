@@ -1,0 +1,8 @@
+com/parcial/biblioteca/controller/BibliotecaController.class
+com/parcial/biblioteca/BibliotecaApplication.class
+com/parcial/biblioteca/service/BibliotecaService.class
+com/parcial/biblioteca/repository/BibliotecaRepository.class
+com/parcial/biblioteca/config/CorsConfig.class
+com/parcial/biblioteca/repository/LibroRepository.class
+com/parcial/biblioteca/entity/Libro.class
+com/parcial/biblioteca/entity/Biblioteca.class
